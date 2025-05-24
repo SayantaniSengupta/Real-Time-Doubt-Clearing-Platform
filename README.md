@@ -4,26 +4,7 @@
 
 A real-time doubt solving platform application built using React.js, Redux.js, Node.js, Express.js, MongoDB, Socket.io, node-cron, node-mailer and Chakra UI.
 
-## Live Demo Link
 
-[Live Link](https://drive.google.com/file/d/1wqqV2yJbsP2_tSA6hvhZmMTbUpAx415C/view?usp=sharing)
-
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Backend](#backend)
-- [Frontend](#frontend)
-- [API Documentation](#api-documentation)
-- [Database Schema](#database-schema)
-- [Configuration](#configuration)
-- [Deployment](#deployment)
-- [Screenshots](#screenshots)
-- [Contact](#contact)
-- [Acknowledgments](#acknowledgments)
 
 ## Introduction
 
@@ -135,11 +116,3 @@ Confuguration is set up in MongoDB, by setting up the environment variables in .
 
 For deployment, Render for the backend and Vercel for the frontend. Updated environment variables accordingly.
 
-## Contact
-
-For any inquiries, contact me at riteshgoswami22201@gmail.com.
-
-## Acknowledgments
-
-- Thanks to the creators of React.js, Redux.js, Node.js, Express.js, MongoDB, and Chakra UI for their fantastic tools.
-- Special thanks to the open-source community for their valuable contributions.# Real-Time-Doubt-Clearing-Platform
